@@ -2233,3 +2233,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-15.17.32:806][496]LogPlayLevel: Display: Destroying online subsystem :Context_46
 [2020.04.24-15.22.50:947][533]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
 [2020.04.24-15.22.50:947][533]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/ version
+[2020.04.24-15.23.11:086][843]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.04.24-15.23.11:086][843]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/ version
+[2020.04.24-15.23.11:088][843]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2020.04.24-15.24.22:722][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.24-15.24.22:722][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_MainGame' took 0.137
+[2020.04.24-15.24.22:733][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_EnemyActor] ([1] browsable assets)...
+[2020.04.24-15.24.22:734][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EnemyActor]
+[2020.04.24-15.24.22:794][874]LogSavePackage: Moving '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/BP_EnemyActor_Auto7892982CC41C76FA89EB5D7A0562FBB6C.tmp' to '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/Autosaves/Game/Blueprints/BP_EnemyActor_Auto7.uasset'
+[2020.04.24-15.24.22:798][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2020.04.24-15.24.22:799][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2020.04.24-15.24.22:997][874]LogSavePackage: Moving '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/BP_GameMode_Auto72DF323D04A76F1BB2682E28E363B25C7.tmp' to '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto7.uasset'
+[2020.04.24-15.24.23:000][874]LogFileHelpers: Auto-saving content packages took 0.268
+[2020.04.24-15.24.24:960][ 37]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.24-15.24.30:275][487]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository at 'C:/Users/bossd/Documents/Unreal Projects/brickshooter'
+[2020.04.24-15.24.30:486][487]EditorErrors: Warning: No assets to check in!
+[2020.04.24-15.24.53:630][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.24-15.24.53:988][826]LogSavePackage: Moving '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/Map_MainGame0D7608BA440C737188A314BF4541C500.tmp' to '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Content/Maps/Map_MainGame.umap'
+[2020.04.24-15.24.56:840][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EnemyActor" FILE="../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Content/Blueprints/BP_EnemyActor.uasset" SILENT=true
+[2020.04.24-15.24.56:886][ 77]LogSavePackage: Moving '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/BP_EnemyActor2554F9554AAD0D8203F4BC8FFEB3C599.tmp' to '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Content/Blueprints/BP_EnemyActor.uasset'
+[2020.04.24-15.24.56:905][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.04.24-15.24.57:098][ 77]LogSavePackage: Moving '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Saved/BP_GameModeF0171F214CDBCA6A5E210BAC0EA456E6.tmp' to '../../../../../../Users/bossd/Documents/Unreal Projects/brickshooter/Content/Blueprints/BP_GameMode.uasset'
+[2020.04.24-15.24.59:378][248]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository at 'C:/Users/bossd/Documents/Unreal Projects/brickshooter'
+[2020.04.24-15.25.19:451][248]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.24-15.25.20:240][248]LogSourceControl: commit successful: [master 1019a19] 1st push
+[2020.04.24-15.25.20:421][248]SourceControl: [master 1019a19] 1st push
+[2020.04.24-15.25.20:421][248]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.24-15.25.20:421][248]SourceControl:  rewrite Content/Blueprints/BP_GameMode.uasset (88%)
+[2020.04.24-15.25.20:438][248]SourceControl: Commited [master 1019a19] 1st push.
+[2020.04.24-15.25.35:473][194]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2020.04.24-15.25.38:480][444]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository at 'C:/Users/bossd/Documents/Unreal Projects/brickshooter'
+[2020.04.24-15.25.38:681][444]EditorErrors: Warning: No assets to check in!
+[2020.04.24-15.25.43:501][870]LogSlate: Window 'Message Log' being destroyed
+[2020.04.24-15.25.43:512][870]LogSlate: Window 'Message Log' being destroyed
